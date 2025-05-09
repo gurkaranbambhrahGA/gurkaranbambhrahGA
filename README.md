@@ -54,7 +54,7 @@ I'm a Mobile Apps Professional who is passionate about writing code, solving pro
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gurkaranvir-singh-bambhrah/) [Gmail](mailto:gurkaran.bambhrah@gmail.com)
 
 ## Stats
-<img alt="gurkaranbambhrahGA's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gurkaranbambhrahGA&show_icons=true&hide=contribs,prs&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<img alt="gurkaranbambhrahGA's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gurkaranbambhrahGA&show_icons=true&hide=contribs,prs&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
   <br/>
 
